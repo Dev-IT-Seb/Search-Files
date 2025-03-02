@@ -1,4 +1,18 @@
-# Search-files
-Recherche de fichiers par extension.
-Modifier ou ajouter l'extension de fichier au début du script.
-Ce script peut aussi être adaptable en changeant le chemin de recherche.
+<h1 align="center">Welcome to Recherche de Fichiers 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+</p>
+
+> Ce script pour vous permettra de rechercher un fichier que vous avez perdu avec son extension.
+
+## Author
+
+👤 **Sebastien C.**
+
+* Github: [@Dev-IT-Seb](https://github.com/Dev-IT-Seb)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
